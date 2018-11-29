@@ -1,0 +1,13 @@
+{
+    "name": "haykkarapetyan/omipay-yandexmoney",
+    "description": "Yandex Money Package",
+    "type": "laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hayk Karapetyan",
+            "email": "karapetyan94hayk@gmail.com"
+        }
+    ],
+    "require": {}
+}
